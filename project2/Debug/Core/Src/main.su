@@ -1,0 +1,6 @@
+../Core/Src/main.c:64:6:extiExample	8	static
+../Core/Src/main.c:69:6:usartExample	16	static
+../Core/Src/main.c:97:6:keyPressExample	16	static
+../Core/Src/main.c:124:6:LEDExample	16	static
+../Core/Src/main.c:177:5:main	8	static
+../Core/Src/main.c:273:6:Error_Handler	4	static,ignoring_inline_asm

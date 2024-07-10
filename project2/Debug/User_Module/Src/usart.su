@@ -1,0 +1,5 @@
+../User_Module/Src/usart.c:45:6:_sys_exit	16	static
+D:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256\tools\bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/include/stdio.h:220:5:fputc	16	static
+../User_Module/Src/usart.c:87:6:uart_init	16	static
+../User_Module/Src/usart.c:112:6:HAL_UART_MspInit	48	static
+../User_Module/Src/usart.c:146:6:USART1_IRQHandler	16	static

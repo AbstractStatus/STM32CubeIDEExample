@@ -1,0 +1,3 @@
+../User_Module/Src/sys.c:3:6:SystemClock_Config	4
+../User_Module/Src/sys.c:47:6:WFI_SET	1
+../User_Module/Src/sys.c:58:6:INTX_DISABLE	1
